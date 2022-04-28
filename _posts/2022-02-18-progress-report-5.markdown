@@ -10,7 +10,7 @@ date: 2022-02-18
 </style>
 
 <body>
-Throughout these past few weeks, I can proudly state that I have developed both a greater appreciation for and understanding of digital humanities projects. This I believe stemmed from Dr. Esprit’s live demonstration of digital tools such as [Voyant Tools][Voyant-ref], [Twine][Twine-ref], and [ArGIS][ArcGIS-ref] and my own personal work in completing project reviews of the [RSHHGG Lab][RSHHGG-ref], [The Viral Text Project][Viral-Texts-ref], and [Slave Revolt in Jamaica, 1760 – 1761][Slave-Revolt-ref].
+Throughout these past few weeks, I can proudly state that I have developed both a greater appreciation for and understanding of digital humanities projects. This I believe stemmed from Dr. Esprit’s live demonstration of digital tools such as "[Voyant Tools][Voyant-ref]", [Twine][Twine-ref], and [ArGIS][ArcGIS-ref] and my own personal work in completing project reviews of the [RSHHGG Lab][RSHHGG-ref], [The Viral Text Project][Viral-Texts-ref], and [Slave Revolt in Jamaica, 1760 – 1761][Slave-Revolt-ref].
 
 This greater confidence, however, did not dissuade the onset of apprehension that I felt when tasked with presenting my own individual project proposal. At that point in time, my only desire was to select a topic that I deemed feasible but I had not an iota of an idea as to what I planned to do. Thus, my plea to Dr. Esprit to suggest some possible project ideas which she did not disappoint in doing. Particularly, her suggestion about addressing the themes in Caribbean Literature really piqued my interest.
 

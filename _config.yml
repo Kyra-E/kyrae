@@ -30,6 +30,7 @@ github_username:  jekyll
 header_pages:
   - about.markdown
   - posts.markdown
+  - annotated-bibliography.markdown
 
 # Build settings
 theme: minima

@@ -25,7 +25,7 @@ The impetus to conduct this particular project primarily came about from my indi
 
 **Methodology**
 
-In light of the focus of this research, Voyant Tools and Twine will be heavily utilized to visualize the results of this project. First, the web-based Voyant Tools will be used to perform textual analysis and topic modeling of any openly accessible primary text or secondary analytical text on Brathwaite’s work during the period. This will serve to highlight any existing commonalities between works that can also assist in narrowing my thematic search and understanding of his work in general. Twine will then provide the means to link these found themes, topics, and historical contexts together and to present this work in a visually pleasing format. All in all, this project is shaping out itself to become an interactive storytelling experience of Brathwaite’s 1980 [works](about.markdown).
+In light of the focus of this research, Voyant Tools and Twine will be heavily utilized to visualize the results of this project. First, the web-based Voyant Tools will be used to perform textual analysis and topic modeling of any openly accessible primary text or secondary analytical text on Brathwaite’s work during the period. This will serve to highlight any existing commonalities between works that can also assist in narrowing my thematic search and understanding of his work in general. Twine will then provide the means to link these found themes, topics, and historical contexts together and to present this work in a visually pleasing format. All in all, this project is shaping out itself to become an interactive storytelling experience of Brathwaite’s 1980 works.
 
 **Works Cited**
 

@@ -3,6 +3,13 @@ layout: post
 title: "Progress Report 2"
 date: 2021-11-30
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 In this week of working on the “Writers, Readers, and Scenes: Visualizing Caribbean Literary Encounters” project, I continued my search in locating all literature written by Caribbean authors between the period of 1981 to 1990. Unlike last week, I tackled this task with a set strategy and goal in mind.
 
 Using my key takeaways from the previous week, I decided to locate the works of authors Sir Vidiadhar Surajprasad Naipaul, a Trinidadian author, Guillermo Cabrera Infante, and Reinaldo Arenas, both Cuban authors. Given that it has been two weeks now since I have decided to dive into the work of VS Naipaul, it goes without saying that he wrote quite a lot during this time period. It is for this reason that I found it absolutely necessary to restrict my WorldCat search to the years 1981 to 1990, however, the process was still slow-going. It was in my search for the two aforementioned Cuban authors that I made some critical observations and found myself asking some key questions.

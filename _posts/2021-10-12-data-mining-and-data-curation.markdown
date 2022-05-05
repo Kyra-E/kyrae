@@ -3,6 +3,13 @@ layout: post
 title: "Semester 1 Week 4: Data Mining and Data Curation"
 date: 2021-10-12
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 In digital humanities and humanities research, data, especially digital data, plays an increasingly important role. Furthermore, the organization and activity of making this data, information, and research available to the public has required a significant transformation in order to align with emerging trends and needs of digital humanists. The work of researchers like Christof Schöch, in [“Big? Smart? Messy? Data in the Humanities”][Schoch ref], and Trevor Muñoz, in [“Data Curation as Publishing for the Digital Humanities”][Munoz ref], provide a straightforward way of appreciating the concepts of data in the humanities and data curation-as-publishing.
 
 Schöch introduces the notion of data in the humanities as something that is not always obvious but like any other research field is nonetheless present. He offers several appropriate definitions of data, from which the general notion can be derived that it is a machine-actionable abstraction of objects of humanities inquiry. The author then goes on to juxtapose the two types of data, smart data and big data, in order to propose a sophisticated mix, called smart big data, which makes use of a combination of automation and crowdsourcing.

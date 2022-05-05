@@ -3,6 +3,13 @@ layout: post
 title: "Progress Report 1"
 date: 2021-11-22
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 Working on the “Visualizing Caribbean Literary Encounters” project this week was quite an eye-opening experience.
 
 I had an opportunity to dive deep into my search for Caribbean literary works from 1981 to 1990, and in doing so, I quickly realized that this time period is rich in material across all genres. Despite having hardly scratched the surface, names like V.S. Naipaul and Kamau Braithwaite appear to be dominating the literary scene within this period. For this reason, as well as due to the guidance received during class discussions, I found it more productive to concentrate on one Caribbean author at a time and work my way through their publications rather than conducting broad searches in the hopes of finding something useful. It is my hope that this technique will continue to be successful in the coming week.

@@ -3,6 +3,13 @@ layout: post
 title: "Semester 1 Week 1-4 Recap: Data & Data Mining in the Humanities"
 date: 2021-10-19
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 In what are known as digital humanities projects, digital humanists integrate digital tools, methodologies, and computational approaches as part of their research methodology. In her article [“How did they make that?”][Posner ref] Miriam Posner aimed to highlight several major digital humanities projects that would better aid novices in recognizing and comprehending the various tools and approaches accessible. Readers can see that in most of the seven projects briefly described, digital humanists typically aim to convey their study of literary or historical texts or ideas in an organized manner, whether that manner be through an archive or a 3-D model.
 
 First and foremost, it is quite apparent that Posner intended her post to be beginner-friendly, and I believe that she accomplished this goal admirably. While there is beauty in the vastness of the digital humanities field, it can nonetheless prove to be very intimidating for newcomers like myself. Posner’s article, however, serves as a point of reassurance since it covers some very familiar technologies that can be used in the creation of digital humanities projects, such as HTML and CSS, and provides several links for further learning and experimentation. Moreover, I especially liked how inclusive and perceptive to her audience that she was by mentioning code-free software tools like Gephi and Cytoscape. Undoubtedly, Posner  placed quite a number of new software on my radar that I believe will prove useful for future endeavors.

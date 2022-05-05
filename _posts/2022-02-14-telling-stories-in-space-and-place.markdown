@@ -3,6 +3,13 @@ layout: post
 title: "Semester 2 Week 4: Telling Stories in Space and Place"
 date: 2022-02-14
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 Throughout history, man has seen and experienced what humanities scholars call “quantitative”, “linguistic”, “cultural”, and “animal” turns. Currently, focus has shifted to “<strong>landscape</strong>” and “<strong>spatial</strong>” turns. This begs the question of: what is the spatial turn? Scholar Jo Guildi, in his essay [“What is the Spatial Turn?”][Guildi-ref], attempts to answer just that.
 
 By turning, he proposes that the spatial turn initiates “<strong>historic conversations about land use and agency</strong>”. It addresses our attempt to reflect on our nature as beings situated in space. He provides fitting examples of the work of early scholars in proposing theories of spatial experience which led to an attempt to coin a “universal language for describing spatial experience and its artificial manipulation”. In keeping with the theme of earlier readings such as [“Archives in Context and as Context”][Theimer-ref], I (ironically enough) have noticed the trend within the humanities field for a lack of standardized vocabulary despite the obvious importance that scholars seem to place on having a standard set of terminology. Nevertheless, scholars continued to draw attention to urban history and environmental studies so as to develop new theories and expand on old theories about the  “microcosms of everyday life and the macrocosms of global flows”.

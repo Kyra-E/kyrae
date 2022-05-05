@@ -10,7 +10,7 @@ div{
 }
 </style>
 
-Adelokun, A. “Comparative Examination of Motifs and the Representation of Identies in Selected Works of Kamau Brathwaite and Helene Johnson.” International Journal of Literature Studies, vol. 1, no. 1, 2021, pp. 33-42, https://al-kindipublisher.com/index.php/ijls/article/view/1920.
+Adelokun, A. “Comparative Examination of Motifs and the Representation of Identities in Selected Works of Kamau Brathwaite and Helene Johnson.” International Journal of Literature Studies, vol. 1, no. 1, 2021, pp. 33-42, https://al-kindipublisher.com/index.php/ijls/article/view/1920.
 
 In this article, Adelokun considers the literary motifs in selected works of Brathwaite and African-American poet Helene Johnson in order to identify and analyze thematic tropes such as exile and negation, and quest for identity. This source not only highlights themes present in Brathwaite’s literature, but it also provides me with a blueprint that I can apply when identifying similar themes that were addressed in the poems overlooked by the article. In my project, the findings of this resource may be expected to reflect some of the content and analysis that I provide.
 

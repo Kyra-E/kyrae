@@ -3,6 +3,13 @@ layout: post
 title: "Semester 1 Week 9: Digital Humanities Activism"
 date: 2021-11-15
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 Kelly Baker Josephs, in her essay [“DH Moments, Caribbean Considerations: On Reaction, Response, and Relevance in the Digital Humanities”][Josephs-ref], provides her take on the 2018 NYCDHWeek theme: “DH in the Moment: Reaction, Response, Relevance”. She centers her discussion around defining digital humanities activism by attempting to answer the question “what does the digital humanities do for others?” and why it is that this question has become so important at this point in the DH realm.
 
 From the onset of Josephs’ introduction, I got the sense that the above question would be a lot to unpack despite it appearing at first glance that an adequate, though simple, response could be that digital humanities does a lot for others. Josephs shows that while this may be the case there are quite a number of nuances to consider in defining how DH activists do precisely that.

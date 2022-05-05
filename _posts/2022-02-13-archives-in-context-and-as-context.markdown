@@ -3,6 +3,13 @@ layout: post
 title: "Semester 2 Week 2: Archives in Context and as Context"
 date: 2022-02-13
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 An archive traditionally describes a location where public records or historical materials are stored and preserved by archivists. However, throughout time the word has been adopted by various groups, most notably by digital humanists, to mean a variety of things. Kame Theimer, in her article “Archives in Context and as Context” critically examines this phenomena so as to explain the significance of articulating and sharing the original vision of archives.
 
 Immediately, Theimer sets out to outline the fundamental principles separating traditional archives from collections created by digital humanists. She highlights the “selection” activity emphasized by scholars in their definition of the term to be a major differentiating factor from the definition coined by archivists. I found myself better appreciating Theimer’s claim when I thought of this concept in more familiar terms of content creation by influencers. For instance, I personally would not consider the work of a daily vlogger to be that of an archive despite their role in essentially collecting “historical” content via camera footage and uploading it to a platform like YouTube for perpetual availability and accessibility.

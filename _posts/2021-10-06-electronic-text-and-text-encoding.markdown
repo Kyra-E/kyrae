@@ -3,6 +3,13 @@ layout: post
 title: "Semester 1 Week 3: Electronic Text & Text Encoding"
 date: 2021-10-06
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 “Texts of all kinds are fundamental in the study of many disciplines, and much effort has been devoted to creating reliable, accurate and readable versions of texts, both in print and in the digital world” [(LibGuides: Digital Humanities – Introduction: Working with Text, 2021)][LibGuides ref]. Text encoding and electronic text are but two principles within digital humanities scholarship around which significant amounts of attention and debate has been centered. In fact, [“A Companion to Digital Humanities”][Shreibman ref] by Shreibman et al.], provides a rather insightful history and breakdown of these two critical areas.
 
 In Chapter 17, dubbed “Text Encoding”, Allen Renear deep dives into mark-up related techniques and systems, particularly descriptive markup, as an important tool for encoding activities. Descriptive markup describes a systematic approach for the organization and processing of texts and digital publishing that, when compared to procedural markup, provides a host of advantages among which is the simplified composition and control over formatting. Its early use was also put forward as the stimulus for the development and widespread utilization of Standard Generalized Markup Language (SGML), Hypertext Markup Language (HTML), Extensible Markup Language (XML) and the Text Encoding Initiative (TEI) guidelines.

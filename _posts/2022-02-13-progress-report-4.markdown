@@ -3,6 +3,13 @@ layout: post
 title: "Progress Report 4"
 date: 2022-02-13
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 It was quite a <strong>bittersweet</strong> moment when Dr. Esprit informed us that we would be switching gears with the project from Zotero to spreadsheet data cleaning. It was sweet in the sense that I was excited for the change of pace that the spreadsheet would bring and for the opportunity to familiarize myself with the findings of my peers on different time periods. However, it was bitter in the sense that I would be leaving behind my <strong>1981 – 1990</strong> time period that I had grown fond of over the various weeks.
 
 In this stage of the project, we were no longer assigned time periods but rather data columns imported from the Zotero folders to the spreadsheet. I chose to work on the columns <strong>“Author”</strong> and <strong>“Translator Name”</strong>. My task was to verify the names of the authors of the various books, standardize their spellings especially in the cases of aliases (like V.S. Naipaul instead of Vidiadhar Surajprasad Naipaul) and to edit any misspellings particularly for omitted accents. In the case of translated work I also had to enter the names of the translator(s) responsible.

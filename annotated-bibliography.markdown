@@ -26,6 +26,6 @@ div{
 
     In this essay, the author highlights some of cultural, esthetic, social, political, market-related, and personal trials confronted by Brathwaite and his poetry by extension. This resource provides a focused look on literature that was not previously analyzed by the other sources. In regards to my individual project, it will provide supplemental thematic material that will guide my own analysis and project content.
 
-5. Vettorato, C. “Transubstantiating the intimate: the role of autobiographical elements in the poetry of Kamau Brathwaite.” Études anglaises, vol. 66, 2013, pp. 497-510, [https://www.cairn.info/revue-etudes-anglaises-2013-4-page-497.htm](https://www.cairn.info/revue-etudes-anglaises-2013-4-page-497.htm).
+**5. Vettorato, C. “Transubstantiating the intimate: the role of autobiographical elements in the poetry of Kamau Brathwaite.” Études anglaises, vol. 66, 2013, pp. 497-510, [https://www.cairn.info/revue-etudes-anglaises-2013-4-page-497.htm](https://www.cairn.info/revue-etudes-anglaises-2013-4-page-497.htm).**
 
     This article, unlike previous sources, considers the significance of autobiographical elements present in Brathwaite’s work. It takes a look at Brathwaite’s own personal history and describes how these events played a role in shaping his writing. This resource offers a new angle for examining Brathwaite’s work by providing new themes previously unaddressed. As such, this source provides me with good background material for connecting similar ideas within Brathwaite’s literature.

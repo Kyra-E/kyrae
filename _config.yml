@@ -30,6 +30,7 @@ github_username:  jekyll
 header_pages:
   - about.markdown
   - posts.markdown
+  - project-proposal.markdown
   - annotated-bibliography.markdown
 
 # Build settings

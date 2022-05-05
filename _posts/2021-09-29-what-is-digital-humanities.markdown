@@ -3,6 +3,13 @@ layout: post
 title: "Semester 1 Week 2: What is Digital Humanities?"
 date: 2021-09-29
 ---
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 Originally focusing on developing digital tools and the creation of archives and databases for texts, artworks, and other materials, “digital humanities are at the leading edge of applying computer-based technology in the humanities. It has brought new powers of analysis, comparison and understanding to a range of research areas” [(Berry, 2019)][Berry-ref].  With the application of digital practices to areas such as literature, history and philosophies some critical questions and concerns have arisen. For years, numerous scholarists have attempted to examine and analyse these topics, among them being William G. Thomas and Trevor Owens.
 
 In [“What We Think We Will Build and What We Build in Digital Humanities”][William-ref], William G. Thomas identifies his key takeaways from working on the digital humanities project “The Railroads and the Making of Modern America”. Thomas proposes that a gap exists between the intention and execution of projects due to the lack of standardized procedures for creation in the digital humanities space. Moreover, he pinpoints the accounting for heterogeneous document types in digital archives, the enablement of cross-discipline scholarly teams, and the adjustments to digital scholarship structure as key areas in which the humanities scholarly practices will change with the application of digital practices.
